@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dev Bytes Videos</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <string name="play_icon">Play icon</string>
+</resources>
